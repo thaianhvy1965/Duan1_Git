@@ -11,4 +11,5 @@
         <maven.compiler.target>17</maven.compiler.target>
         <exec.mainClass>Duan1_Git</exec.mainClass>
     </properties>
+    <name>Duan1_Git_vythaianh2025</name>
 </project>
